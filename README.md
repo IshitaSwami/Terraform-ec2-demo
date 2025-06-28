@@ -1,1 +1,1 @@
-# 15-Days-of-Terraform
+# Terraform-EC2-Demo
